@@ -4,7 +4,7 @@ import Header from "@/components/Header/Header";
 import Sidebar from "@/components/Sidebar/Sidebar";
 
 export const metadata: Metadata = {
-  title: "CRM Tool",
+  title: "Lead Snap",
   description: "CRM app for Leads Management",
   icons: {
     icon: "/logo.png",
